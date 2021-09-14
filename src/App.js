@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import HorizontalScroll from "react-scroll-horizontal";
 import { ThemeProvider } from "styled-components";
 import { AppContainer } from "./AppStyle";
 import Header from "./components/Header/Header";
-import Layout from "./components/Header/Header";
 import Navbar from "./components/Navbar/Navbar";
 import Projects from "./components/Projects/Projects";
 import { darkTheme, GlobalStyle, lightTheme } from "./globalStyle";
@@ -33,7 +33,9 @@ const App = () => {
     <ThemeProvider theme={themeMode}>
       <GlobalStyle />
       <AppContainer>
-        <Navbar theme={theme} toggleTheme={toggleTheme} />
+        <BrowserRouter>
+          <Navbar theme={theme} toggleTheme={toggleTheme} />
+        </BrowserRouter>
         <HorizontalScroll reverseScroll={true}>
           <Header />
           <Projects />

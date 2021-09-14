@@ -22,15 +22,19 @@ export const lightTheme = {
   toggle: "linear-gradient(hsl(210, 78%, 56%), hsl(146, 68%, 55%))",
   content: "hsl(228, 28%, 20%)",
   hover: "hsl(228, 28%, 40%)",
-  icon: "#fff"
+  icon: "#fff",
+  navbar: "hsl(0, 0%, 40%)",
+  navbarborder: "hsl(0,0%, 30%)"
 };
 
 export const darkTheme = {
-  body: "hsl(0, 0%, 100%)",
+  body: "hsl(10, 0%, 100%)",
   projects: "yellow",
   text: "hsl(228, 12%, 44%)",
   toggle: "linear-gradient(hsl(210, 78%, 56%), hsl(146, 68%, 55%))",
   content: "hsl(227, 47%, 96%)",
   hover: "hsl(226, 47%, 90%)",
-  icon: "black"
+  icon: "black",
+  navbar: "hsl(0, 0%, 80%)",
+  navbarborder: "hsl(0,0%, 75%)"
 };
