@@ -9,7 +9,7 @@ const Navbar = ({ theme, toggleTheme }) => {
       <Link smooth to="/#header">
         <HomeIcon />
       </Link>
-      <Link smooth to="/#project">
+      <Link smooth to="/#projects">
         <ProjectIcon />
       </Link>
       <Toggle theme={theme} toggleTheme={toggleTheme} />

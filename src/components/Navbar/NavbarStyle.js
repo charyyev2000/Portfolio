@@ -15,7 +15,7 @@ export const NavbarContainer = styled.nav`
   border: 1px solid ${({ theme }) => theme.navbarborder};
   display: flex;
   align-items: center;
-  z-index: 99;
+  z-index: 2;
 `;
 
 const NavIcon = css`
