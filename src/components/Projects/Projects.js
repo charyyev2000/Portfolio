@@ -34,7 +34,12 @@ const Projects = () => {
               onClick={() => expander(item.id)}
               key={item.id}
             >
-              <motion.span layoutId="header"> {item.header}</motion.span>
+              <motion.span
+                layoutId="header"
+                style={{ display: "inline-block" }}
+              >
+                {item.header}
+              </motion.span>
             </Container>
           );
         })}

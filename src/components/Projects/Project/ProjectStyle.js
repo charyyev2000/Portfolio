@@ -16,8 +16,23 @@ export const Backdrop = styled(motion.div)`
 `;
 
 export const Container = styled(motion.div)`
+position: relative;
   width: 80vw;
   height: 80vh;
   background: white;
-  // display: flex;
+  border-radius: 20px;
+overflow:hidden;
+
+  .back-btn {
+    position: absolute;
+    top: -30px;
+    right: -30px;
+    font-size: 1.5rem;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor:pointer;
+    // background: #fff;
 `;

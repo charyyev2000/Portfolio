@@ -30,11 +30,13 @@ export const ProjectsSection = styled(motion.section)`
   }
 `;
 
-export const Container = styled.div`
+export const Container = styled(motion.div)`
   background: white;
   color: #000;
   position: relative;
   display: block;
+  border-radius: 10px;
+  overflow: hidden;
 
   &::after {
     position: absolute;
@@ -53,5 +55,8 @@ export const Container = styled.div`
   &:hover::after {
     opacity: 1;
     cursor: pointer;
+  }
+
+  
   }
 `;
