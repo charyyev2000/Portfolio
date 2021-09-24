@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/React-Portfolio/static/js/main.f61a4e27.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.f61a4e27.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e74bee6b.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e74bee6b.js.map",
-    "static/js/2.9406e595.chunk.js": "/React-Portfolio/static/js/2.9406e595.chunk.js",
-    "static/js/2.9406e595.chunk.js.map": "/React-Portfolio/static/js/2.9406e595.chunk.js.map",
-    "index.html": "/React-Portfolio/index.html",
-    "static/js/2.9406e595.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.9406e595.chunk.js.LICENSE.txt",
-    "static/media/1.3ed8b4fd.jpg": "/React-Portfolio/static/media/1.3ed8b4fd.jpg",
-    "static/media/2.8db267fd.jpg": "/React-Portfolio/static/media/2.8db267fd.jpg",
-    "static/media/3.cbc92769.jpg": "/React-Portfolio/static/media/3.cbc92769.jpg",
-    "static/media/4.4ac3526d.jpg": "/React-Portfolio/static/media/4.4ac3526d.jpg",
-    "static/media/5.8b480bae.jpg": "/React-Portfolio/static/media/5.8b480bae.jpg",
-    "static/media/6.7e8e8041.jpg": "/React-Portfolio/static/media/6.7e8e8041.jpg"
+    "main.js": "/Portfolio/static/js/main.f61a4e27.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.f61a4e27.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.2b29aa0a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.2b29aa0a.js.map",
+    "static/js/2.875cdcdf.chunk.js": "/Portfolio/static/js/2.875cdcdf.chunk.js",
+    "static/js/2.875cdcdf.chunk.js.map": "/Portfolio/static/js/2.875cdcdf.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/js/2.875cdcdf.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.875cdcdf.chunk.js.LICENSE.txt",
+    "static/media/1.3ed8b4fd.jpg": "/Portfolio/static/media/1.3ed8b4fd.jpg",
+    "static/media/2.8db267fd.jpg": "/Portfolio/static/media/2.8db267fd.jpg",
+    "static/media/3.cbc92769.jpg": "/Portfolio/static/media/3.cbc92769.jpg",
+    "static/media/4.4ac3526d.jpg": "/Portfolio/static/media/4.4ac3526d.jpg",
+    "static/media/5.8b480bae.jpg": "/Portfolio/static/media/5.8b480bae.jpg",
+    "static/media/6.7e8e8041.jpg": "/Portfolio/static/media/6.7e8e8041.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e74bee6b.js",
-    "static/js/2.9406e595.chunk.js",
+    "static/js/runtime-main.2b29aa0a.js",
+    "static/js/2.875cdcdf.chunk.js",
     "static/js/main.f61a4e27.chunk.js"
   ]
 }
